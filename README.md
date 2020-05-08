@@ -7,3 +7,6 @@ My orginal idea was to create rain that drips down from a Japanese character. Ho
 ## Ideal User ## 
 My goal of the project is to highlight the emotions and impact weather can have on a viewer's mood.
 
+
+<img width="1023" alt="Screen Shot 2020-05-08 at 6 32 33 PM" src="https://user-images.githubusercontent.com/53446525/81456325-e6e66180-915f-11ea-804a-4cb071474fd7.png">
+
